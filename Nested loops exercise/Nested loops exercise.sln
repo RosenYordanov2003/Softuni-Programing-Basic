@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pyramid", "Nested loops exercise\Number Pyramid.csproj", "{055943E4-C9F0-4824-8D40-BED2B310F5BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Sums Even Odd Position", "Equal Sums Even Odd Position\Equal Sums Even Odd Position.csproj", "{52D2B375-6199-4574-8E60-4302ED61690B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Prime Non Prime", "Sum Prime Non Prime\Sum Prime Non Prime.csproj", "{164C41DB-8CC6-433D-B811-345CCC34A570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train The Trainers", "Train The Trainers\Train The Trainers.csproj", "{BE95CAC1-159F-4744-A59D-8E9814A73DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special Numbers", "Special Numbers\Special Numbers.csproj", "{F939EFEA-5950-4B88-97E6-9B23BD21014C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema Tickets", "Cinema Tickets\Cinema Tickets.csproj", "{C33CC3AD-FA4B-4293-B67E-E79AD794E1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinations", "Combinations\Combinations.csproj", "{761B9BE2-CFC0-445F-861B-8175903420C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Two Numbers", "Sum of Two Numbers\Sum of Two Numbers.csproj", "{A30C358E-052B-4713-B883-5F9B891398F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travelling", "Travelling\Travelling.csproj", "{7C73AF12-647B-4809-B2C0-BB6D0D92F25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Building", "Building\Building.csproj", "{85533CD6-5730-46FF-B38B-99C4DB1614A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{D9E7F50E-DE15-4C17-B4E0-B9A2DD1F23C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055943E4-C9F0-4824-8D40-BED2B310F5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055943E4-C9F0-4824-8D40-BED2B310F5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055943E4-C9F0-4824-8D40-BED2B310F5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055943E4-C9F0-4824-8D40-BED2B310F5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D2B375-6199-4574-8E60-4302ED61690B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D2B375-6199-4574-8E60-4302ED61690B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D2B375-6199-4574-8E60-4302ED61690B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D2B375-6199-4574-8E60-4302ED61690B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164C41DB-8CC6-433D-B811-345CCC34A570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164C41DB-8CC6-433D-B811-345CCC34A570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164C41DB-8CC6-433D-B811-345CCC34A570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164C41DB-8CC6-433D-B811-345CCC34A570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE95CAC1-159F-4744-A59D-8E9814A73DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE95CAC1-159F-4744-A59D-8E9814A73DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE95CAC1-159F-4744-A59D-8E9814A73DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE95CAC1-159F-4744-A59D-8E9814A73DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F939EFEA-5950-4B88-97E6-9B23BD21014C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F939EFEA-5950-4B88-97E6-9B23BD21014C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F939EFEA-5950-4B88-97E6-9B23BD21014C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F939EFEA-5950-4B88-97E6-9B23BD21014C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33CC3AD-FA4B-4293-B67E-E79AD794E1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33CC3AD-FA4B-4293-B67E-E79AD794E1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33CC3AD-FA4B-4293-B67E-E79AD794E1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33CC3AD-FA4B-4293-B67E-E79AD794E1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761B9BE2-CFC0-445F-861B-8175903420C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761B9BE2-CFC0-445F-861B-8175903420C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761B9BE2-CFC0-445F-861B-8175903420C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761B9BE2-CFC0-445F-861B-8175903420C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30C358E-052B-4713-B883-5F9B891398F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30C358E-052B-4713-B883-5F9B891398F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30C358E-052B-4713-B883-5F9B891398F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30C358E-052B-4713-B883-5F9B891398F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C73AF12-647B-4809-B2C0-BB6D0D92F25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C73AF12-647B-4809-B2C0-BB6D0D92F25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C73AF12-647B-4809-B2C0-BB6D0D92F25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C73AF12-647B-4809-B2C0-BB6D0D92F25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85533CD6-5730-46FF-B38B-99C4DB1614A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85533CD6-5730-46FF-B38B-99C4DB1614A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85533CD6-5730-46FF-B38B-99C4DB1614A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85533CD6-5730-46FF-B38B-99C4DB1614A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E7F50E-DE15-4C17-B4E0-B9A2DD1F23C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E7F50E-DE15-4C17-B4E0-B9A2DD1F23C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E7F50E-DE15-4C17-B4E0-B9A2DD1F23C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E7F50E-DE15-4C17-B4E0-B9A2DD1F23C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5DE2A6-B20B-49CB-A232-D24D8795C89E}
+	EndGlobalSection
+EndGlobal
