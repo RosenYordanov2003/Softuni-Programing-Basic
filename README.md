@@ -1,3 +1,7 @@
+
+
+
+![Certificate softuni](https://user-images.githubusercontent.com/107473016/178155825-01e635c0-7745-4d9e-9e21-2ff8778b27e1.jpg)
 # За курса
 Курсът "Programming Basics" дава начални умения по програмиране, необходими за всички технологични специалности в Софтуерния университет. Това включва писане на програмен код на начално ниво (basic coding skills), работа със среда за разработка (IDE-Visual Studio), използване на променливи и данни, оператори и изрази, работа с конзолата (четене на входни данни,печатане и форматиране на резултати), използване на условни конструкции (if, if-else,switch case) и цикли (for, while, do-while).
 ## Умения
@@ -18,4 +22,3 @@
 ## Полезни линкове
 - SoftUni https://softuni.bg
 - SoftUni Judge https://judge.softuni.bg
-![Certificate softuni](https://user-images.githubusercontent.com/107473016/178155825-01e635c0-7745-4d9e-9e21-2ff8778b27e1.jpg)
